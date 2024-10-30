@@ -1,9 +1,3 @@
-# Lista de Exercícios em Clojure
-
-Esta lista de exercícios foi criada para ajudar você a se familiarizar com as principais estruturas de dados e funcionalidades idiomáticas de Clojure. Para cada exercício, escreva testes básicos para validar o comportamento e os resultados do código.
-
----
-
 ## Exercício 1: Manipulação de Listas
 **Objetivo:** Praticar operações básicas com listas, incluindo `cons`, `conj`, `first`, `rest`, `map`, e `filter`.
 
